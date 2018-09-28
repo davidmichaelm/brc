@@ -159,7 +159,7 @@ span.reverseComma:not(:first-of-type)::before {
     margin: 0px 5px 15px 5px;
     max-width: 550px;
     border-radius: 7.5px;
-    background-color: #8c8c8fe6;
+    background-color: rgba(140, 140, 143, 0.8);
     padding: 15px;
     color: white;
 }
@@ -182,7 +182,7 @@ span.reverseComma:not(:first-of-type)::before {
     transform: rotate(180deg);
     border-width: 10px;
     border-style: solid;
-    border-color: #8c8c8fe6 transparent transparent transparent;
+    border-color: rgba(140, 140, 143, 0.8) transparent transparent transparent;
 }
 
 
@@ -205,7 +205,7 @@ span.reverseComma:not(:first-of-type)::before {
     right: 15px;
     top: 50px;
     border-radius: 7.5px;
-    background-color: #8c8c8fe6;
+    background-color: rgba(140, 140, 143, 0.8);
     padding: 15px;
     color: white;
 }
@@ -232,7 +232,7 @@ span.reverseComma:not(:first-of-type)::before {
     transform: rotate(180deg);
     border-width: 10px;
     border-style: solid;
-    border-color: #8c8c8fe6 transparent transparent transparent;
+    border-color: rgba(140, 140, 143, 0.8) transparent transparent transparent;
 }
 
 form p {
