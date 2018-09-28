@@ -1,0 +1,288 @@
+h1, h2 {
+    font-family: "Martel", serif;
+    color: #1b1c22;
+    
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.4em;
+    margin-top: 5px;
+}
+
+a {
+    color: #555555;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #555555;
+    line-height: 25px;
+    width: 100%;
+}
+
+#wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+#container {
+    max-width: 440px;
+    margin: 0 auto;
+}
+
+
+
+.day {
+    margin-left: 20px;
+}
+
+.checked-true {
+    color: #07a0c3;
+}
+
+input {
+    margin-right: 5px;
+}
+
+.day input[type="checkbox"] {
+    opacity: 0;
+}
+
+.day label::before {
+    content: "";
+    display: inline-block;
+    
+    height: 16px;
+    width: 16px;
+    
+    border: 1px solid;
+    border-radius: 3px;
+    color: #868e96 !important;
+    cursor: pointer;
+}
+
+.day label::after {
+    content: "";
+    display: inline-block;
+    height: 6px;
+    width: 9px;
+    border-left: 2px solid;
+    border-bottom: 2px solid;
+    color: #555555;
+    cursor: pointer;
+    
+    transform: rotate(-45deg);
+
+    
+}
+
+.day label {
+    position: relative;
+    cursor: pointer;
+}
+.day label::before,
+.day label::after {
+    position: absolute;
+}
+/*Outer-box*/
+.day label::before {
+    top: -1px;
+    left: -25px;
+    
+}
+/*Checkmark*/
+.day label::after {
+    left: -21px;
+    top: 2px;
+
+    
+}
+
+
+/*Hide the checkmark by default*/
+.day input[type="checkbox"] + label::after {
+    content: none;
+}
+/*Unhide the checkmark on the checked state*/
+.day input[type="checkbox"]:checked + label::after {
+    content: "";
+    animation-name: check;
+    animation-duration: 0.5s;
+
+}
+
+@keyframes check {
+    0%   {
+        color: white;
+    }
+    100% {
+        color: #555555;
+    }
+}
+
+/* 
+    Add a comma in between readings
+    Last of type isn't working as intended, since hidden elements still exist even if they're hidden
+    reverseComma is a workaround for that
+*/
+
+span.comma:not(:last-of-type)::after {
+    content: ", ";
+}
+
+span.reverseComma:not(:first-of-type)::before {
+    content: ", ";
+}
+
+
+
+
+/* 
+   Stuff at the top of the screen
+*/
+
+.aboutPane {
+    visibility: hidden;
+    z-index: 2;
+    
+    opacity: 0;
+    transition: visibility 0s, opacity 0.25s linear;
+}
+
+.aboutContent {
+    position: absolute;
+    right: 0px;
+    top: 50px;
+    margin: 0px 5px 15px 5px;
+    max-width: 550px;
+    border-radius: 7.5px;
+    background-color: #8c8c8fe6;
+    padding: 15px;
+    color: white;
+}
+
+#aboutButton {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #07a0c3;
+    position: absolute;
+    z-index: 2;
+    top: 15px;
+    right: 15px;
+}
+
+.aboutPane .aboutContent::after {
+    content: "";
+    position: absolute;
+    right: 10px;
+    top: -20px;
+    transform: rotate(180deg);
+    border-width: 10px;
+    border-style: solid;
+    border-color: #8c8c8fe6 transparent transparent transparent;
+}
+
+
+#aboutButton:hover, #settingsButton:hover {
+    cursor: pointer;
+}
+
+.settings {
+    visibility: hidden;
+    /*position: relative;*/
+    z-index: 1;
+    
+    opacity: 0;
+    transition: visibility 0s, opacity 0.25s linear;
+}
+
+#settingsContent {
+    position: absolute;
+    z-index: 2;
+    right: 15px;
+    top: 50px;
+    border-radius: 7.5px;
+    background-color: #8c8c8fe6;
+    padding: 15px;
+    color: white;
+}
+
+#settingsButton {
+    position: absolute;
+    z-index: 2;
+    top: 17.5px;
+    right: 45px;
+}
+
+/* add this class to make the settings/about visible */
+.display {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* arrow for settings box */
+.settings #settingsContent::after {
+    content: "";
+    position: absolute;
+    right: 30px;
+    top: -20px;
+    transform: rotate(180deg);
+    border-width: 10px;
+    border-style: solid;
+    border-color: #8c8c8fe6 transparent transparent transparent;
+}
+
+form p {
+    margin: 0;
+    margin-left: 15px;
+}
+
+#topBar {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+    /*box-shadow: 0px 0px 2px gray;*/
+}
+
+.topBarTitle {
+    font-family: "Martel", serif;
+
+    /*opacity: 0;*/
+    max-width: 440px;
+    margin: 0 auto;
+    padding: 15px 15px 10px 15px;
+
+    font-size: 22px !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+    transition: all 0.1s linear;
+
+    opacity: 0;
+    
+}
+
+.scrolledBar {
+    box-shadow: 0px 0px 2px gray;
+    background-color: white;
+
+    transition: all 0.1s linear;
+}
+
+
+
+#year {
+    color:#07a0c3;
+}
+
+@media only screen and (max-width: 320px) {
+    .topBarTitle {
+        font-size: 18px !important;
+    }
+}
