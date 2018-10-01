@@ -209,7 +209,10 @@
             }
 
             function scrollToDate(scrollType, animate = true) {
-                if (scrollType == "none") {
+                let firstItem = localStorage.getItem("week0day0box")
+                if (scrollType == "none" ||
+                 firstItem == null ||
+                 firstItem == "false") {
                     return
                 }
 
