@@ -1,4 +1,4 @@
-{  
+{
     "October 1-5":{  
        "day1":{  
           "OT":"Genesis 1-2",
@@ -6,22 +6,22 @@
           "Psalm":"Psalm 19"
        },
        "day2":{  
-          "OT":"Gen 3-5",
+          "OT":"Genesis 3-5",
           "NT":"Mark 2",
           "Psalm":""
        },
        "day3":{  
-          "OT":"Gen 6-8",
+          "OT":"Genesis 6-8",
           "NT":"Mark 3",
           "Psalm":"Psalm 104"
        },
        "day4":{  
-          "OT":"Gen 9-11",
+          "OT":"Genesis 9-11",
           "NT":"Mark 4",
           "Psalm":""
        },
        "day5":{  
-          "OT":"Gen 12-15",
+          "OT":"Genesis 12-15",
           "NT":"Mark 5",
           "Psalm":"Psalm 148"
        }
@@ -33,22 +33,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Gen 19-20",
+          "OT":"Genesis 19-20",
           "NT":"Mark 7",
           "Psalm":"Psalm 1"
        },
        "day3":{  
-          "OT":"Gen 21-23",
+          "OT":"Genesis 21-23",
           "NT":"Mark 8",
           "Psalm":"Psalm 107"
        },
        "day4":{  
-          "OT":"Gen 24-25",
+          "OT":"Genesis 24-25",
           "NT":"Mark 9",
           "Psalm":"Psalm 4"
        },
        "day5":{  
-          "OT":"Gen 26-27",
+          "OT":"Genesis 26-27",
           "NT":"Mark 10",
           "Psalm":""
        }
@@ -60,22 +60,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Gen 30-31",
+          "OT":"Genesis 30-31",
           "NT":"Mark 12",
           "Psalm":"Psalm 11"
        },
        "day3":{  
-          "OT":"Gen 32-34",
+          "OT":"Genesis 32-34",
           "NT":"Mark 13",
           "Psalm":"Psalm 145"
        },
        "day4":{  
-          "OT":"Gen 35-37",
+          "OT":"Genesis 35-37",
           "NT":"Mark 14",
           "Psalm":"Psalm 12"
        },
        "day5":{  
-          "OT":"Gen 38-40",
+          "OT":"Genesis 38-40",
           "NT":"Mark 15",
           "Psalm":""
        }
@@ -87,23 +87,23 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Gen 43-44",
+          "OT":"Genesis 43-44",
           "NT":"Galatians 1",
           "Psalm":"Psalm 24"
        },
        "day3":{  
-          "OT":"Gen 45-46",
-          "NT":"Gal 2",
+          "OT":"Genesis 45-46",
+          "NT":"Galatians 2",
           "Psalm":"Psalm 108"
        },
        "day4":{  
-          "OT":"Gen 47-48",
-          "NT":"Gal 3",
+          "OT":"Genesis 47-48",
+          "NT":"Galatians 3",
           "Psalm":"Psalm 25"
        },
        "day5":{  
-          "OT":"Gen 49-50",
-          "NT":"Gal 4",
+          "OT":"Genesis 49-50",
+          "NT":"Galatians 4",
           "Psalm":""
        }
     },
@@ -115,7 +115,7 @@
        },
        "day2":{  
           "OT":"Exodus 4-6",
-          "NT":"Gal 6",
+          "NT":"Galatians 6",
           "Psalm":""
        },
        "day3":{  
@@ -125,12 +125,12 @@
        },
        "day4":{  
           "OT":"Exodus 10-12",
-          "NT":"Eph 2",
+          "NT":"Ephesians 2",
           "Psalm":""
        },
        "day5":{  
           "OT":"Exodus 13-15",
-          "NT":"Eph 3",
+          "NT":"Ephesians 3",
           "Psalm":"Psalm 114"
        }
     },
@@ -142,12 +142,12 @@
        },
        "day2":{  
           "OT":"Exodus 19-21",
-          "NT":"Eph 5",
+          "NT":"Ephesians 5",
           "Psalm":"Psalm 33"
        },
        "day3":{  
           "OT":"Exodus 22-24",
-          "NT":"Eph 6",
+          "NT":"Ephesians 6",
           "Psalm":"Psalm 109"
        },
        "day4":{  
@@ -157,7 +157,7 @@
        },
        "day5":{  
           "OT":"Exodus 28-31",
-          "NT":"Phil 2",
+          "NT":"Philippians 2",
           "Psalm":""
        }
     },
@@ -169,7 +169,7 @@
        },
        "day2":{  
           "OT":"Exodus 35-37",
-          "NT":"Phil 4",
+          "NT":"Philippians 4",
           "Psalm":"Psalm 26"
        },
        "day3":{  
@@ -179,12 +179,12 @@
        },
        "day4":{  
           "OT":"Leviticus 1-3",
-          "NT":"Heb 2",
+          "NT":"Hebrews 2",
           "Psalm":"Psalm 27"
        },
        "day5":{  
-          "OT":"Lev 4-7",
-          "NT":"Heb 3",
+          "OT":"Leviticus 4-7",
+          "NT":"Hebrews 3",
           "Psalm":""
        }
     },
@@ -195,23 +195,23 @@
           "Psalm":"Psalm 110"
        },
        "day2":{  
-          "OT":"Lev 12-14",
-          "NT":"Heb 5",
+          "OT":"Leviticus 12-14",
+          "NT":"Hebrews 5",
           "Psalm":"Psalm 111"
        },
        "day3":{  
-          "OT":"Lev 15-18",
-          "NT":"Heb 6",
+          "OT":"Leviticus 15-18",
+          "NT":"Hebrews 6",
           "Psalm":"Psalm 31"
        },
        "day4":{  
-          "OT":"Lev 19-20",
-          "NT":"Heb 7",
+          "OT":"Leviticus 19-20",
+          "NT":"Hebrews 7",
           "Psalm":""
        },
        "day5":{  
-          "OT":"Lev 21-23",
-          "NT":"Heb 8",
+          "OT":"Leviticus 21-23",
+          "NT":"Hebrews 8",
           "Psalm":""
        }
     },
@@ -222,23 +222,23 @@
           "Psalm":"Psalm 81"
        },
        "day2":{  
-          "OT":"Lev 26-27",
-          "NT":"Heb 10",
+          "OT":"Leviticus 26-27",
+          "NT":"Hebrews 10",
           "Psalm":"Psalm 112"
        },
        "day3":{  
           "OT":"Numbers 1-2",
-          "NT":"Heb 11",
+          "NT":"Hebrews 11",
           "Psalm":"Psalm 64"
        },
        "day4":{  
-          "OT":"Num 3-5",
-          "NT":"Heb 12",
+          "OT":"Numbers 3-5",
+          "NT":"Hebrews 12",
           "Psalm":""
        },
        "day5":{  
-          "OT":"Num 6-7",
-          "NT":"Heb 13",
+          "OT":"Numbers 6-7",
+          "NT":"Hebrews 13",
           "Psalm":""
        }
     },
@@ -249,22 +249,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Num 12-14",
-          "NT":"Col 2",
+          "OT":"Numbers 12-14",
+          "NT":"Colossians 2",
           "Psalm":"Psalm 28"
        },
        "day3":{  
-          "OT":"Num 15-18",
-          "NT":"Col 3",
+          "OT":"Numbers 15-18",
+          "NT":"Colossians 3",
           "Psalm":"Psalm 113"
        },
        "day4":{  
-          "OT":"Num 19-21",
-          "NT":"Col 4",
+          "OT":"Numbers 19-21",
+          "NT":"Colossians 4",
           "Psalm":""
        },
        "day5":{  
-          "OT":"Num 22-25",
+          "OT":"Numbers 22-25",
           "NT":"Luke 1",
           "Psalm":""
        }
@@ -276,12 +276,12 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Num 30-33",
+          "OT":"Numbers 30-33",
           "NT":"Luke 3",
           "Psalm":"Psalm 35"
        },
        "day3":{  
-          "OT":"Num 34-36",
+          "OT":"Numbers 34-36",
           "NT":"Luke 4",
           "Psalm":""
        },
@@ -421,12 +421,12 @@
           "Psalm":"Psalm 120"
        },
        "day4":{  
-          "OT":"1 Sam 3-5",
+          "OT":"1 Samuel 3-5",
           "NT":"Acts 6",
           "Psalm":"Psalm 23"
        },
        "day5":{  
-          "OT":"1 Sam 6-8",
+          "OT":"1 Samuel 6-8",
           "NT":"Acts 7",
           "Psalm":""
        }
@@ -438,22 +438,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"1 Sam 11-13",
+          "OT":"1 Samuel 11-13",
           "NT":"Acts 9",
           "Psalm":"Psalm 38"
        },
        "day3":{  
-          "OT":"1 Sam 14",
+          "OT":"1 Samuel 14",
           "NT":"Acts 10",
           "Psalm":"Psalm 124"
        },
        "day4":{  
-          "OT":"1 Sam 15-16, 1 Chronicles 1",
+          "OT":"1 Samuel 15-16, 1 Chronicles 1",
           "NT":"Acts 11",
           "Psalm":"Psalm 39"
        },
        "day5":{  
-          "OT":"1 Sam 17, 1 Chronicles 2",
+          "OT":"1 Samuel 17, 1 Chronicles 2",
           "NT":"Acts 12",
           "Psalm":""
        }
@@ -465,22 +465,22 @@
           "Psalm":"Psalm 59"
        },
        "day2":{  
-          "OT":"1 Sam 20, 1 Chronicles 4",
+          "OT":"1 Samuel 20, 1 Chronicles 4",
           "NT":"Acts 14",
           "Psalm":"Psalms 56, 57, 142"
        },
        "day3":{  
-          "OT":"1 Sam 21-22, 1 Chronicles 5",
+          "OT":"1 Samuel 21-22, 1 Chronicles 5",
           "NT":"Acts 15",
           "Psalm":"Psalm 52"
        },
        "day4":{  
-          "OT":"1 Sam 23-24, 1 Chronicles 6",
+          "OT":"1 Samuel 23-24, 1 Chronicles 6",
           "NT":"Acts 16",
           "Psalm":"Psalm 54"
        },
        "day5":{  
-          "OT":"1 Sam 25, 1 Chronicles 7",
+          "OT":"1 Samuel 25, 1 Chronicles 7",
           "NT":"Acts 17",
           "Psalm":""
        }
@@ -492,22 +492,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"1 Sam 28-29. 1 Chronicles 9",
+          "OT":"1 Samuel 28-29. 1 Chronicles 9",
           "NT":"Acts 19",
           "Psalm":""
        },
        "day3":{  
-          "OT":"1 Sam 30-31, 1 Chronicles 10",
+          "OT":"1 Samuel 30-31, 1 Chronicles 10",
           "NT":"Acts 20",
           "Psalm":""
        },
        "day4":{  
-          "OT":"2 Sam 1-2, 1 Chronicles 11",
+          "OT":"2 Samuel 1-2, 1 Chronicles 11",
           "NT":"Acts 21",
-          "Psalm":"Ps 96, 106"
+          "Psalm":"Psalm 96, 106"
        },
        "day5":{  
-          "OT":"2 Sam 3-5, 1 Chronicles 12",
+          "OT":"2 Samuel 3-5, 1 Chronicles 12",
           "NT":"Acts 22",
           "Psalm":"Psalm 122"
        }
@@ -524,7 +524,7 @@
           "Psalm":""
        },
        "day3":{  
-          "OT":"2 Sam 7-8, 1 Chronicles 17",
+          "OT":"2 Samuel 7-8, 1 Chronicles 17",
           "NT":"Acts 25",
           "Psalm":"Psalm 132"
        },
@@ -536,7 +536,7 @@
        "day5":{  
           "OT":"2 Sa 11-12, 1 Chronicles 20",
           "NT":"Acts 27",
-          "Psalm":"Ps 51, 32"
+          "Psalm":"Psalm 51, 32"
        }
     },
     "February 18-22":{  
@@ -546,22 +546,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"2 Sam 15-17",
+          "OT":"2 Samuel 15-17",
           "NT":"Romans 1",
           "Psalm":"Psalm 3, 63"
        },
        "day3":{  
-          "OT":"2 Sam 18-20",
+          "OT":"2 Samuel 18-20",
           "NT":"Romans 2",
           "Psalm":"Psalm 34"
        },
        "day4":{  
-          "OT":"2 Sam 21-23",
+          "OT":"2 Samuel 21-23",
           "NT":"Romans 3",
           "Psalm":"Psalm 18"
        },
        "day5":{  
-          "OT":"2 Sam 24, 1 Chronicles 21",
+          "OT":"2 Samuel 24, 1 Chronicles 21",
           "NT":"Romans 4",
           "Psalm":""
        }
@@ -633,17 +633,17 @@
        },
        "day3":{  
           "OT":"Proverbs 22-23",
-          "NT":"1 Thess 1",
+          "NT":"1 Thessalonians 1",
           "Psalm":"Psalm 117"
        },
        "day4":{  
           "OT":"Proverbs 24-25",
-          "NT":"1 Thess 2",
+          "NT":"1 Thessalonians 2",
           "Psalm":"Psalm 41"
        },
        "day5":{  
           "OT":"Proverbs 26-28",
-          "NT":"1 Thess 3",
+          "NT":"1 Thessalonians 3",
           "Psalm":""
        }
     },
@@ -655,7 +655,7 @@
        },
        "day2":{  
           "OT":"Song of Solomon 1-3",
-          "NT":"1 Thess 5",
+          "NT":"1 Thessalonians 5",
           "Psalm":"Psalm 72"
        },
        "day3":{  
@@ -664,13 +664,13 @@
           "Psalm":""
        },
        "day4":{  
-          "OT":"Song of Sol 7-8",
-          "NT":"2 Thess 2",
+          "OT":"Song of Solomon 7-8",
+          "NT":"2 Thessalonians 2",
           "Psalm":"Psalm 127"
        },
        "day5":{  
           "OT":"1 Kings 5, 2 Chronicles 2",
-          "NT":"2 Thess 3",
+          "NT":"2 Thessalonians 3",
           "Psalm":""
        }
     },
@@ -682,22 +682,22 @@
        },
        "day2":{  
           "OT":"1 Kings 7, 2 Chronicles 4",
-          "NT":"1 Tim 2",
+          "NT":"1 Timothy 2",
           "Psalm":"Psalm 44"
        },
        "day3":{  
           "OT":"1 Kings 8",
-          "NT":"1 Tim 3",
+          "NT":"1 Timothy 3",
           "Psalm":"Psalm 30"
        },
        "day4":{  
-          "OT":"2 Chr 5-7",
-          "NT":"1 Tim 4",
+          "OT":"2 Chronicles 5-7",
+          "NT":"1 Timothy 4",
           "Psalm":"Psalm 121"
        },
        "day5":{  
           "OT":"1 King 9, 2 Chronicles 8",
-          "NT":"1 Tim 5",
+          "NT":"1 Timothy 5",
           "Psalm":""
        }
     },
@@ -713,18 +713,18 @@
           "Psalm":"Psalm 45"
        },
        "day3":{  
-          "OT":"Eccl 4-6",
-          "NT":"2 Tim 2",
+          "OT":"Ecclesiastes 4-6",
+          "NT":"2 Timothy 2",
           "Psalm":"Psalm 125"
        },
        "day4":{  
-          "OT":"Eccl 7-9",
-          "NT":"2 Tim 3",
+          "OT":"Ecclesiastes 7-9",
+          "NT":"2 Timothy 3",
           "Psalm":"Psalm 46"
        },
        "day5":{  
-          "OT":"Eccl 10-12",
-          "NT":"2 Tim 4",
+          "OT":"Ecclesiastes 10-12",
+          "NT":"2 Timothy 4",
           "Psalm":""
        }
     },
@@ -737,7 +737,7 @@
        "day2":{  
           "OT":"1 Kings 13-14, 2 Chronicles 12",
           "NT":"Titus 2",
-          "Psalm":"Ps 47"
+          "Psalm":"Psalm 47"
        },
        "day3":{  
           "OT":"1 Kings 15, 2 Chronicles 13-14",
@@ -745,7 +745,7 @@
           "Psalm":""
        },
        "day4":{  
-          "OT":"2 Chr 15-16, 1 Kings 16",
+          "OT":"2 Chronicles 15-16, 1 Kings 16",
           "NT":"Philemon",
           "Psalm":""
        },
@@ -763,22 +763,22 @@
        },
        "day2":{  
           "OT":"1 Kings 22, 2 Chronicles 18",
-          "NT":"Matt 2",
+          "NT":"Matthew 2",
           "Psalm":""
        },
        "day3":{  
-          "OT":"2 Chr 19-20, 2 Kings 1",
-          "NT":"Matt 3",
+          "OT":"2 Chronicles 19-20, 2 Kings 1",
+          "NT":"Matthew 3",
           "Psalm":"Psalm 20"
        },
        "day4":{  
           "OT":"2 Kings 2-3",
-          "NT":"Matt 4",
+          "NT":"Matthew 4",
           "Psalm":"Psalm 48"
        },
        "day5":{  
           "OT":"2 Kings 4-6",
-          "NT":"Matt 5",
+          "NT":"Matthew 5",
           "Psalm":""
        }
     },
@@ -790,22 +790,22 @@
        },
        "day2":{  
           "OT":"2 Kings 9-10",
-          "NT":"Matt 7",
+          "NT":"Matthew 7",
           "Psalm":"Psalm 49"
        },
        "day3":{  
-          "OT":"2 Chr 22-23, 2 Kings 11",
-          "NT":"Matt 8",
+          "OT":"2 Chronicles 22-23, 2 Kings 11",
+          "NT":"Matthew 8",
           "Psalm":"Psalm 131"
        },
        "day4":{  
-          "OT":"2 Chr 24, 2 Kings 12",
-          "NT":"Matt 9",
+          "OT":"2 Chronicles 24, 2 Kings 12",
+          "NT":"Matthew 9",
           "Psalm":"Psalm 50"
        },
        "day5":{  
           "OT":"Joel",
-          "NT":"Matt 10",
+          "NT":"Matthew 10",
           "Psalm":""
        }
     },
@@ -817,22 +817,22 @@
        },
        "day2":{  
           "OT":"2 Kings 13-14, 2 Chronicles 25",
-          "NT":"Matt 12",
-          "Psalm":"Ps 53"
+          "NT":"Matthew 12",
+          "Psalm":"Psalm 53"
        },
        "day3":{  
           "OT":"Amos 1-3",
-          "NT":"Matt 13",
+          "NT":"Matthew 13",
           "Psalm":""
        },
        "day4":{  
           "OT":"Amos 4-6",
-          "NT":"Matt 14",
+          "NT":"Matthew 14",
           "Psalm":"Psalm 55"
        },
        "day5":{  
           "OT":"Amos 7-9",
-          "NT":"Matt 15",
+          "NT":"Matthew 15",
           "Psalm":""
        }
     },
@@ -844,22 +844,22 @@
        },
        "day2":{  
           "OT":"Hosea 4-6",
-          "NT":"Matt 17",
+          "NT":"Matthew 17",
           "Psalm":"Psalm 58"
        },
        "day3":{  
           "OT":"Hosea 7-10",
-          "NT":"Matt 18",
+          "NT":"Matthew 18",
           "Psalm":""
        },
        "day4":{  
           "OT":"Hosea 11-13",
-          "NT":"Matt 19",
+          "NT":"Matthew 19",
           "Psalm":""
        },
        "day5":{  
           "OT":"Hosea 14, 2 Chronicles 26-27",
-          "NT":"Matt 20",
+          "NT":"Matthew 20",
           "Psalm":"Psalm 61"
        }
     },
@@ -871,22 +871,22 @@
        },
        "day2":{  
           "OT":"Isaiah 1-3",
-          "NT":"Matt 22",
+          "NT":"Matthew 22",
           "Psalm":"Psalm 9"
        },
        "day3":{  
           "OT":"Isaiah 4-6",
-          "NT":"Matt 23",
+          "NT":"Matthew 23",
           "Psalm":""
        },
        "day4":{  
           "OT":"Micah 1-4",
-          "NT":"Matt 24",
+          "NT":"Matthew 24",
           "Psalm":"Psalm 10"
        },
        "day5":{  
           "OT":"Micah 5-7",
-          "NT":"Matt 25",
+          "NT":"Matthew 25",
           "Psalm":""
        }
     },
@@ -898,12 +898,12 @@
        },
        "day2":{  
           "OT":"Isaiah 11-13",
-          "NT":"Matt 27",
+          "NT":"Matthew 27",
           "Psalm":"Psalm 118"
        },
        "day3":{  
           "OT":"Isaiah 14-16",
-          "NT":"Matt 28",
+          "NT":"Matthew 28",
           "Psalm":""
        },
        "day4":{  
@@ -913,7 +913,7 @@
        },
        "day5":{  
           "OT":"Isaiah 20-22",
-          "NT":"1 Cor 2",
+          "NT":"1 Corinthians 2",
           "Psalm":""
        }
     },
@@ -925,22 +925,22 @@
        },
        "day2":{  
           "OT":"Isaiah 26-29",
-          "NT":"1 Cor 4",
+          "NT":"1 Corinthians 4",
           "Psalm":"Psalm 65"
        },
        "day3":{  
           "OT":"Isaiah 30-32",
-          "NT":"1 Cor 5",
+          "NT":"1 Corinthians 5",
           "Psalm":""
        },
        "day4":{  
           "OT":"Isaiah 33-35",
-          "NT":"1 Cor 6",
+          "NT":"1 Corinthians 6",
           "Psalm":""
        },
        "day5":{  
-          "OT":"2 Chr 28, 2 Kings 17",
-          "NT":"1 Cor 7",
+          "OT":"2 Chronicles 28, 2 Kings 17",
+          "NT":"1 Corinthians 7",
           "Psalm":"Psalm 66"
        }
     },
@@ -957,17 +957,17 @@
        },
        "day3":{  
           "OT":"Isaiah 36-37",
-          "NT":"1 Cor 10",
+          "NT":"1 Corinthians 10",
           "Psalm":"Psalm 123"
        },
        "day4":{  
           "OT":"2 Kings 20, Isaiah 38-40",
-          "NT":"1 Cor 11",
+          "NT":"1 Corinthians 11",
           "Psalm":"Psalm 68"
        },
        "day5":{  
           "OT":"Isaiah 41-44",
-          "NT":"1 Cor 12",
+          "NT":"1 Corinthians 12",
           "Psalm":""
        }
     },
@@ -979,22 +979,22 @@
        },
        "day2":{  
           "OT":"Isaiah 49-52",
-          "NT":"1 Cor 14",
+          "NT":"1 Corinthians 14",
           "Psalm":"Psalm 69"
        },
        "day3":{  
           "OT":"Isaiah 53-55",
-          "NT":"1 Cor 15",
+          "NT":"1 Corinthians 15",
           "Psalm":"Psalm 128"
        },
        "day4":{  
           "OT":"Isaiah 56-59",
-          "NT":"1 Cor 16",
+          "NT":"1 Corinthians 16",
           "Psalm":"Psalm 70"
        },
        "day5":{  
           "OT":"Isaiah 60-63",
-          "NT":"2 Cor 1",
+          "NT":"2 Corinthians 1",
           "Psalm":""
        }
     },
@@ -1006,22 +1006,22 @@
        },
        "day2":{  
           "OT":"2 Kings 21, 2 Chronicles 33",
-          "NT":"2 Cor 3",
-          "Psalm":"Ps 71"
+          "NT":"2 Corinthians 3",
+          "Psalm":"Psalm 71"
        },
        "day3":{  
           "OT":"Nahum",
-          "NT":"2 Cor 4",
+          "NT":"2 Corinthians 4",
           "Psalm":"Psalm 149"
        },
        "day4":{  
           "OT":"2 Kings 22-23",
-          "NT":"2 Cor 5",
+          "NT":"2 Corinthians 5",
           "Psalm":"Psalm 73"
        },
        "day5":{  
-          "OT":"2 Chr 34-35",
-          "NT":"2 Cor 6",
+          "OT":"2 Chronicles 34-35",
+          "NT":"2 Corinthians 6",
           "Psalm":""
        }
     },
@@ -1033,22 +1033,22 @@
        },
        "day2":{  
           "OT":"Zephaniah",
-          "NT":"2 Cor 8",
+          "NT":"2 Corinthians 8",
           "Psalm":"Psalm 74"
        },
        "day3":{  
           "OT":"Jeremiah 1-4",
-          "NT":"2 Cor 9",
+          "NT":"2 Corinthians 9",
           "Psalm":"Psalm 130"
        },
        "day4":{  
-          "OT":"Jer 5-7",
-          "NT":"2 Cor 10",
+          "OT":"Jeremiah 5-7",
+          "NT":"2 Corinthians 10",
           "Psalm":"Psalm 75"
        },
        "day5":{  
-          "OT":"Jer 8-10",
-          "NT":"2 Cor 11",
+          "OT":"Jeremiah 8-10",
+          "NT":"2 Corinthians 11",
           "Psalm":""
        }
     },
@@ -1059,22 +1059,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Jer 14-16",
-          "NT":"2 Cor 13",
+          "OT":"Jeremiah 14-16",
+          "NT":"2 Corinthians 13",
           "Psalm":"Psalm 76"
        },
        "day3":{  
-          "OT":"Jer 17-20",
+          "OT":"Jeremiah 17-20",
           "NT":"James 1",
           "Psalm":""
        },
        "day4":{  
-          "OT":"Jer 22, 23, 26",
+          "OT":"Jeremiah 22, 23, 26",
           "NT":"James 2",
           "Psalm":"Psalm 77"
        },
        "day5":{  
-          "OT":"Jer 25, 35, 36, 45",
+          "OT":"Jeremiah 25, 35, 36, 45",
           "NT":"James 3",
           "Psalm":"Psalm 133"
        }
@@ -1086,24 +1086,24 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Jer 37, 21, 34",
+          "OT":"Jeremiah 37, 21, 34",
           "NT":"James 5",
           "Psalm":"Psalm 79"
        },
        "day3":{  
-          "OT":"Jer 30-33",
+          "OT":"Jeremiah 30-33",
           "NT":"1 Peter 1",
           "Psalm":""
        },
        "day4":{  
-          "OT":"Jer 38, 39, 52",
+          "OT":"Jeremiah 38, 39, 52",
           "NT":"1 Peter 2",
           "Psalm":""
        },
        "day5":{  
           "OT":"2 Kings 24-25, 2 Chronicles 3",
           "NT":"1 Peter 3",
-          "Psalm":"Ps 126"
+          "Psalm":"Psalm 126"
        }
     },
     "July 15-19":{  
@@ -1123,12 +1123,12 @@
           "Psalm":""
        },
        "day4":{  
-          "OT":"Jer 47, 48, 49",
+          "OT":"Jeremiah 47, 48, 49",
           "NT":"2 Peter 2",
           "Psalm":"Psalm 80"
        },
        "day5":{  
-          "OT":"Jer 50-51",
+          "OT":"Jeremiah 50-51",
           "NT":"2 Peter 3",
           "Psalm":""
        }
@@ -1140,22 +1140,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Ezek 4-6",
+          "OT":"Ezekiel 4-6",
           "NT":"John 2",
           "Psalm":"Psalm 82"
        },
        "day3":{  
-          "OT":"Ezek 7-9",
+          "OT":"Ezekiel 7-9",
           "NT":"John 3",
           "Psalm":""
        },
        "day4":{  
-          "OT":"Ezek 10-12",
+          "OT":"Ezekiel 10-12",
           "NT":"John 4",
           "Psalm":"Psalm 83"
        },
        "day5":{  
-          "OT":"Ezek 13-15",
+          "OT":"Ezekiel 13-15",
           "NT":"John 5",
           "Psalm":"Psalm 136"
        }
@@ -1167,22 +1167,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Ezek 19-21",
+          "OT":"Ezekiel 19-21",
           "NT":"John 7",
           "Psalm":"Psalm 84"
        },
        "day3":{  
-          "OT":"Ezek 22-24",
+          "OT":"Ezekiel 22-24",
           "NT":"John 8",
           "Psalm":"Psalm 134"
        },
        "day4":{  
-          "OT":"Ezek 25-27",
+          "OT":"Ezekiel 25-27",
           "NT":"John 9",
           "Psalm":"Psalm 85"
        },
        "day5":{  
-          "OT":"Ezek 28-30",
+          "OT":"Ezekiel 28-30",
           "NT":"John 10",
           "Psalm":""
        }
@@ -1194,22 +1194,22 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Ezek 34-36",
+          "OT":"Ezekiel 34-36",
           "NT":"John 12",
           "Psalm":"Psalm 86"
        },
        "day3":{  
-          "OT":"Ezek 37-39",
+          "OT":"Ezekiel 37-39",
           "NT":"John 13",
           "Psalm":"Psalm 87"
        },
        "day4":{  
-          "OT":"Ezek 40-42",
+          "OT":"Ezekiel 40-42",
           "NT":"John 14",
           "Psalm":""
        },
        "day5":{  
-          "OT":"Ezek 43-45",
+          "OT":"Ezekiel 43-45",
           "NT":"John 15",
           "Psalm":"Psalm 135"
        }
@@ -1226,17 +1226,17 @@
           "Psalm":"Psalm 88"
        },
        "day3":{  
-          "OT":"Dan 4-6",
+          "OT":"Daniel 4-6",
           "NT":"John 18",
           "Psalm":""
        },
        "day4":{  
-          "OT":"Dan 7-9",
+          "OT":"Daniel 7-9",
           "NT":"John 19",
           "Psalm":"Psalm 91"
        },
        "day5":{  
-          "OT":"Dan 10-12",
+          "OT":"Daniel 10-12",
           "NT":"John 20",
           "Psalm":""
        }
@@ -1258,12 +1258,12 @@
           "Psalm":"Psalm 138"
        },
        "day4":{  
-          "OT":"Zech 2-5",
+          "OT":"Zechariah 2-5",
           "NT":"1 John 3",
           "Psalm":"Psalm 93"
        },
        "day5":{  
-          "OT":"Zech 6-8",
+          "OT":"Zechariah 6-8",
           "NT":"1 John 4",
           "Psalm":""
        }
@@ -1275,7 +1275,7 @@
           "Psalm":""
        },
        "day2":{  
-          "OT":"Zech 12-14",
+          "OT":"Zechariah 12-14",
           "NT":"2 John",
           "Psalm":"Psalm 94"
        },
@@ -1291,7 +1291,7 @@
        },
        "day5":{  
           "OT":"Esther 4-6",
-          "NT":"Rev 2",
+          "NT":"Revelation 2",
           "Psalm":""
        }
     },
@@ -1303,22 +1303,22 @@
        },
        "day2":{  
           "OT":"Ezra 7-10",
-          "NT":"Rev 4",
+          "NT":"Revelation 4",
           "Psalm":"Psalm 97"
        },
        "day3":{  
           "OT":"Nehemiah 1-3",
-          "NT":"Rev 5",
+          "NT":"Revelation 5",
           "Psalm":""
        },
        "day4":{  
-          "OT":"Neh 4-6",
-          "NT":"Rev 6",
+          "OT":"Nehemiah 4-6",
+          "NT":"Revelation 6",
           "Psalm":"Psalm 98"
        },
        "day5":{  
-          "OT":"Neh 7-9",
-          "NT":"Rev 7",
+          "OT":"Nehemiah 7-9",
+          "NT":"Revelation 7",
           "Psalm":"Psalm 140"
        }
     },
@@ -1330,22 +1330,22 @@
        },
        "day2":{  
           "OT":"Malachi",
-          "NT":"Rev 9",
+          "NT":"Revelation 9",
           "Psalm":"Psalm 2"
        },
        "day3":{  
           "OT":"Job 1-3",
-          "NT":"Rev 10",
+          "NT":"Revelation 10",
           "Psalm":"Psalm 29"
        },
        "day4":{  
           "OT":"Job 4-7",
-          "NT":"Rev 11",
+          "NT":"Revelation 11",
           "Psalm":"Psalm 99"
        },
        "day5":{  
           "OT":"Job 8-11",
-          "NT":"Rev 12",
+          "NT":"Revelation 12",
           "Psalm":""
        }
     },
@@ -1357,22 +1357,22 @@
        },
        "day2":{  
           "OT":"Job 15-17",
-          "NT":"Rev 14",
+          "NT":"Revelation 14",
           "Psalm":""
        },
        "day3":{  
           "OT":"Job 18-20",
-          "NT":"Rev 15",
+          "NT":"Revelation 15",
           "Psalm":"Psalm 141"
        },
        "day4":{  
           "OT":"Job 21-23",
-          "NT":"Rev 16",
+          "NT":"Revelation 16",
           "Psalm":"Psalm 101"
        },
        "day5":{  
           "OT":"Job 24-27",
-          "NT":"Rev 17",
+          "NT":"Revelation 17",
           "Psalm":""
        }
     },
@@ -1384,22 +1384,22 @@
        },
        "day2":{  
           "OT":"Job 31-33",
-          "NT":"Rev 19",
+          "NT":"Revelation 19",
           "Psalm":"Psalm 102"
        },
        "day3":{  
           "OT":"Job 34-36",
-          "NT":"Rev 20",
+          "NT":"Revelation 20",
           "Psalm":""
        },
        "day4":{  
           "OT":"Job 37-39",
-          "NT":"Rev 21",
+          "NT":"Revelation 21",
           "Psalm":"Psalm 103"
        },
        "day5":{  
           "OT":"Job 40-42",
-          "NT":"Rev 22",
+          "NT":"Revelation 22",
           "Psalm":"Psalm 150"
        }
     }
